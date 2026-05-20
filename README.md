@@ -1,12 +1,8 @@
 ### 🌐 мои профили на обучающих платформах / educational profiles
 
-* 🎓 **Stepik:** [codedbyalina на Stepik](https://stepik.org/users/1183406944/profile) — здесь я прохожу курсы по пентесту, программированию, системному администрированию / here I take courses on pentesting, programming, and system administration
-* 🧪 **HackerLab:** [codedbyalina на HackerLab](https://hackerlab.pro/users/jhvvugcv) — мой профиль на платформе для практической отработки навыков в сфере информационной безопасности / my profile on the platform for practical hands-on cybersecurity skills
-* 🦉 **Duolingo:** [Alina483848 на Duolingo](https://ru.duolingo.com/profile/Alina483848) — здесь я изучаю английский язык, мой текущий уровень B1 / here I study English, my current level is B1
-
----
-
-[связаться со мной в telegram](https://t.me/feedback_cd_bot)
+* 🎓 [**Stepik:**](https://stepik.org/users/1183406944/profile) — здесь я прохожу курсы по пентесту, программированию, системному администрированию / here I take courses on pentesting, programming, and system administration
+* 🧪 [**HackerLab:**](https://hackerlab.pro/users/jhvvugcv) — мой профиль на платформе для практической отработки навыков в сфере информационной безопасности / my profile on the platform for practical hands-on cybersecurity skills
+* 🦉 [**Duolingo:**](https://ru.duolingo.com/profile/Alina483848) — здесь я изучаю английский язык, мой текущий уровень B1 / here I study English, my current level is B1
 
 ---
 
@@ -21,9 +17,9 @@
 ---
 
 ### 🎯 направления и навыки / Areas of Focus
-* 🔍 **OSINT & Разведка:** Сбор информации по открытым источникам, поиск утечек данных (Threat Intelligence)
-* 🛡️ **Network Security:** Анонимизация трафика, настройка прокси-цепочек (SOCKS5/HTTP) и безопасная работа в сетях
-* 🛡️ **Web Pentesting:** Анализ уязвимостей веб-приложений с использованием Burp Suite и OWASP ZAP
+*  **OSINT & Разведка:** Сбор информации по открытым источникам, поиск утечек данных (Threat Intelligence)
+*  **Network Security:** Анонимизация трафика, настройка прокси-цепочек (SOCKS5/HTTP) и безопасная работа в сетях
+*  **Web Pentesting:** Анализ уязвимостей веб-приложений с использованием Burp Suite и OWASP ZAP
 
 ---
 
@@ -53,3 +49,7 @@
 ### 🎓 **образование / education:** студентка 2 курса / 2nd-year student (дистанционное обучение / distance learning)
 * **направление / major:** 09.03.03 прикладная информатика / applied informatics 💻
 * **профиль / pathway:** прикладная информатика в экономике / applied informatics in economics 📊
+
+---
+
+### [связаться со мной в telegram](https://t.me/feedback_cd_bot)
