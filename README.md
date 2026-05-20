@@ -20,6 +20,13 @@
 
 ---
 
+### 🎯 направления и навыки / Areas of Focus
+* 🔍 **OSINT & Разведка:** Сбор информации по открытым источникам, поиск утечек данных (Threat Intelligence)
+* 🛡️ **Network Security:** Анонимизация трафика, настройка прокси-цепочек (SOCKS5/HTTP) и безопасная работа в сетях
+* 🛡️ **Web Pentesting:** Анализ уязвимостей веб-приложений с использованием Burp Suite и OWASP ZAP
+
+---
+
 ### 🛠️ стек технологий / tech stack
 #### Operating Systems & Infrastructure
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -38,7 +45,9 @@
 ![Maltego](https://img.shields.io/badge/Maltego-000000?style=for-the-badge&logo=maltego&logoColor=white)
 ![Spiderfoot](https://img.shields.io/badge/Spiderfoot-FF6B6B?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-4F5D75?style=for-the-badge&logo=nmap&logoColor=white)
-
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white)
+![Proxy & Tor](https://img.shields.io/badge/Traffic_Anonymization-SOCKS5_%2F_Tor-purple?style=for-the-badge)
+![Proxychains](https://img.shields.io/badge/Proxychains-4F5D75?style=for-the-badge)
 ---
 
 ### 🎓 **образование / education:** студентка 2 курса / 2nd-year student (дистанционное обучение / distance learning)
