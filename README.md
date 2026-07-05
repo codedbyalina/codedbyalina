@@ -4,6 +4,7 @@
 * 🧪 [**HackerLab**](https://hackerlab.pro/users/jhvvugcv) — мой профиль на платформе для практической отработки навыков в сфере информационной безопасности / my profile on the platform for practical hands-on cybersecurity skills
 * 🦉 [**Duolingo**](https://ru.duolingo.com/profile/Alina483848) — здесь я изучаю английский язык, мой текущий уровень B1 / here I study English, my current level is B1
 * 🎯 [**TryHackMe**](https://tryhackme.com/p/jjrwgho) — прохожу практические лаборатории по кибербезопасности и пентесту / practicing hands-on cybersecurity and penetration testing labs
+* 📦 [**Hack The Box**](https://profile.hackthebox.com/profile/019f3155-1630-72da-b193-64e6107aa344) — учусь находить и эксплуатировать уязвимости на практике / learning to find and exploit vulnerabilities hands-on
 
 ---
 
