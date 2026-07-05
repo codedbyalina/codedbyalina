@@ -53,6 +53,6 @@
 * **направление / major:** 09.03.03 прикладная информатика / applied informatics 💻
 * **профиль / pathway:** прикладная информатика в экономике / applied informatics in economics 📊
 * **дополнительно / additionally:** обучаюсь в Школе 21 по направлению кибербезопасность / studying cybersecurity at School 21
-* **cпециалист по аналитике и базам данных (в процессе) — изучаю SQL и Python в «Академии Сигма» (направление от центра занятости); Python-модуль включает работу с API и веб-скрапинг, что пересекается с OSINT, а SQL даёт базу для понимания синтаксиса, лежащего в основе SQL-инъекций / studying SQL and Python at Sigma Academy (referred through the employment center); the Python module covers API work and web scraping, which overlaps with OSINT, while SQL builds the syntax foundation behind SQL injection
+* **cпециалист по аналитике и базам данных (в процессе)** — изучаю SQL и Python в «Академии Сигма» (направление от центра занятости); Python-модуль включает работу с API и веб-скрапинг, что пересекается с OSINT, а SQL даёт базу для понимания синтаксиса, лежащего в основе SQL-инъекций / studying SQL and Python at Sigma Academy (referred through the employment center); the Python module covers API work and web scraping, which overlaps with OSINT, while SQL builds the syntax foundation behind SQL injection
 
 ---
