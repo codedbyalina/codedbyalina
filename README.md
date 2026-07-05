@@ -50,7 +50,7 @@
 ### 🎓 **образование / education:** студентка 2 курса / 2nd-year student (дистанционное обучение / distance learning)
 * **направление / major:** 09.03.03 прикладная информатика / applied informatics 💻
 * **профиль / pathway:** прикладная информатика в экономике / applied informatics in economics 📊
-* ** дополнительно / additionally: обучаюсь в Школе 21 по направлению кибербезопасность / studying cybersecurity at School 21
+* **дополнительно / additionally:** обучаюсь в Школе 21 по направлению кибербезопасность / studying cybersecurity at School 21 🔐
 
 ---
 
