@@ -3,6 +3,7 @@
 * 🎓 [**Stepik**](https://stepik.org/users/1183406944/profile) — здесь я прохожу курсы по пентесту, программированию, системному администрированию / here I take courses on pentesting, programming, and system administration
 * 🧪 [**HackerLab**](https://hackerlab.pro/users/jhvvugcv) — мой профиль на платформе для практической отработки навыков в сфере информационной безопасности / my profile on the platform for practical hands-on cybersecurity skills
 * 🦉 [**Duolingo**](https://ru.duolingo.com/profile/Alina483848) — здесь я изучаю английский язык, мой текущий уровень B1 / here I study English, my current level is B1
+* 🎯 [**TryHackMe**](https://tryhackme.com/p/jjrwgho) — прохожу практические лаборатории по кибербезопасности и пентесту / practicing hands-on cybersecurity and penetration testing labs
 
 ---
 
