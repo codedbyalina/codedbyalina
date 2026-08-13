@@ -1,11 +1,11 @@
 ## 🌐 Мои профили на обучающих платформах
 
 * 🎓 [Stepik](https://stepik.org/users/1183406944/profile)
-* 🧪 [HackerLab](https://hackerlab.pro/users/1bvyurcv/)
-* 🎯 [TryHackMe](https://tryhackme.com/p/3jjwrwo)
+* 🧪 [HackerLab](https://hackerlab.pro/users/jhvvugcv/)
+* 🎯 [TryHackMe](https://tryhackme.com/p/jjrwgho) 
 * 📦 [Hack The Box](https://profile.hackthebox.com/profile/019f3155-1630-72da-b193-64e6107aa344)
 
----
+
 
 ## 🛠️ Стек технологий
 
@@ -16,7 +16,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
----
+
 
 ## 🎓 Образование
 
@@ -24,7 +24,7 @@
 * Обучаюсь в Школе 21 по направлению кибербезопасность
 * Прошла курс повышения квалификации "Специалист по аналитике и базам данных", в котором изучала SQL и Python. Python-модуль включает работу с API и веб-скрапинг, что пересекается с OSINT, а SQL дал базу для понимания синтаксиса, лежащего в основе SQL-инъекций
 
----
+
 
 Буду рада обратной связи и предложениям о сотрудничестве!
 
