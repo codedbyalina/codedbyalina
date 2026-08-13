@@ -1,8 +1,8 @@
 ## 🌐 Мои профили на обучающих платформах
 
 * 🎓 [Stepik](https://stepik.org/users/1183406944/profile)
-* 🧪 [HackerLab]([https://hackerlab.pro/users/1bvyurcv/])
-* 🎯 [TryHackMe]([https://tryhackme.com/p/3jjwrwo])
+* 🧪 [HackerLab](https://hackerlab.pro/users/1bvyurcv/)
+* 🎯 [TryHackMe](https://tryhackme.com/p/3jjwrwo)
 * 📦 [Hack The Box](https://profile.hackthebox.com/profile/019f3155-1630-72da-b193-64e6107aa344)
 
 ---
